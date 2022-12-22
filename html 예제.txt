@@ -1,0 +1,18 @@
+<!doctype html>								//웹문서 유형 html로 지정
+<html> 										//웹 페이지 시작
+    <head>									//<html>의 첫 요소
+        <title>Ex</title>							//제목 설정
+    </head>									
+    <body>									//<html>의 두 번째 요소
+        <b>bold text</b><br>						//글씨 굵게하여 강조
+        <strong>strong text</strong><br>			//글씨 굵게하여 강조
+        <i>italic text</i><br>						//용어, 구절, 생각의 예시 / 기울임꼴로 표시
+        <em>emphasized text</em><br>				//<i>와 비슷한 용도
+        <mark>mark text</mark><br>				//해당 부분 표시
+        <small>small text</small><br>				//한 사이즈 작은 글꼴로 표시
+        <del>deleted text</del><br>					//기존 내용 삭제
+        <ins>inserted text</ins><br>					//새 내용 삽입
+        This is <sup>superscript text</sup><br>		//2²에서 ²같이 윗쪽으로 작은 글자 표시
+        This is <sub>subscript text</sub>				//Mason₂에서 ₂같이 아랫쪽으로 ""
+    </body>
+</html>
